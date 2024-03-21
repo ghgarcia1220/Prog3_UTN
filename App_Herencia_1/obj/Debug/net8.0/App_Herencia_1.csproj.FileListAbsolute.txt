@@ -1,0 +1,14 @@
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\bin\Debug\net8.0\App_Herencia_1.exe
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\bin\Debug\net8.0\App_Herencia_1.deps.json
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\bin\Debug\net8.0\App_Herencia_1.runtimeconfig.json
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\bin\Debug\net8.0\App_Herencia_1.dll
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\bin\Debug\net8.0\App_Herencia_1.pdb
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\obj\Debug\net8.0\App_Herencia_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\obj\Debug\net8.0\App_Herencia_1.AssemblyInfoInputs.cache
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\obj\Debug\net8.0\App_Herencia_1.AssemblyInfo.cs
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\obj\Debug\net8.0\App_Herencia_1.csproj.CoreCompileInputs.cache
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\obj\Debug\net8.0\App_Herencia_1.dll
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\obj\Debug\net8.0\refint\App_Herencia_1.dll
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\obj\Debug\net8.0\App_Herencia_1.pdb
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\obj\Debug\net8.0\App_Herencia_1.genruntimeconfig.cache
+E:\2- Programacion\3- .Net\C#\2- Ejercicios Simples Java POO\App_Herencia_1\obj\Debug\net8.0\ref\App_Herencia_1.dll
